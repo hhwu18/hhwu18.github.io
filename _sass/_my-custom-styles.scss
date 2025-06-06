@@ -1,0 +1,12 @@
+/* _sass/_my-custom-styles.scss */
+
+/* 1. 将网站标题字体变大 */
+.site-title {
+  font-size: 1.7em; /* 你可以调整这个数值，例如 1.5em, 2.2em, 30px 等 */
+}
+
+/* 2. 移除作者头像的边框和阴影 */
+.author__avatar img {
+  /* border: none !important; */ /* 移除边框 */
+  box-shadow: none !important; /* 移除阴影 */
+}
