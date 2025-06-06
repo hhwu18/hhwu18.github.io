@@ -1,0 +1,45 @@
+# .github/workflows/jekyll.yml
+
+name: Build and Deploy Jekyll Site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main # 或者你的主分支名
+
+# 设置工作流的权限
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 设置并发控制
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true # 自动处理 bundle install 和缓存
+
+      - name: Build with Jekyll
+        run: bundle exec jekyll build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
