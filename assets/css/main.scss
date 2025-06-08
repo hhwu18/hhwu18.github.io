@@ -4,7 +4,7 @@
 @charset "UTF-8";
 
 // 1. 加载主题皮肤 (例如你选择的 "mint")
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'mint' }}";
 
 // 2. 加载主题核心样式
 @import "minimal-mistakes";

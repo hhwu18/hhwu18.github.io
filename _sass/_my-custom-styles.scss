@@ -10,3 +10,90 @@
   /* border: none !important; */ /* 移除边框 */
   box-shadow: none !important; /* 移除阴影 */
 }
+
+/* ---------------------------------- */
+/* 仅让首页 (index.md) 的内容两端对齐 */
+/* ---------------------------------- */
+
+.homepage-justify .page__content p {
+  text-align: justify;
+}
+
+/* ---------------------------------- */
+/* 单独控制 Biography 部分的字体大小 */
+/* ---------------------------------- */
+
+.bio-content {
+  font-size: 0.9em; /* 设为默认大小的90%。你可以改成任何你需要的值，如 1.1em (放大) 或 15px */
+}
+
+/* ---------------------------------- */
+/* awards/talks列表的年份对齐样式 */
+/* ---------------------------------- */
+.awardsleftPart {
+  display: inline-block; /* 让 span 元素可以设置宽度 */
+  width: 140px;         /* 设置一个固定的宽度，你可以根据需要调整这个数值 */
+  font-weight: bold;      /* (可选) 让年份加粗，更显眼 */
+  /* 你还可以添加其他样式，比如右对齐年份文字 */
+  text-align: left; 
+  /* padding-right: 20px; */ /* 增加年份和描述之间的间距 */
+}
+
+.teachleftPart {
+  display: inline-block; /* 让 span 元素可以设置宽度 */
+  width: 190px;         /* 设置一个固定的宽度，你可以根据需要调整这个数值 */
+  font-weight: bold;      /* (可选) 让年份加粗，更显眼 */
+  /* 你还可以添加其他样式，比如右对齐年份文字 */
+  text-align: left; 
+  /* padding-right: 20px; */ /* 增加年份和描述之间的间距 */
+}
+
+.proleftPart {
+  display: inline-block; /* 让 span 元素可以设置宽度 */
+  width: 180px;         /* 设置一个固定的宽度，你可以根据需要调整这个数值 */
+  font-weight: bold;      /* (可选) 让年份加粗，更显眼 */
+  /* 你还可以添加其他样式，比如右对齐年份文字 */
+  text-align: left; 
+  /* padding-right: 20px; */ /* 增加年份和描述之间的间距 */
+}
+
+
+/* 为带有 "wide" 标记的页面设置宽屏样式 */
+
+.wide {
+  .page__inner-wrap {
+    // 移除主题默认的最大宽度限制
+    max-width: none;
+  }
+}
+
+/* 或者，如果你不想完全占满，而是想设置一个比默认值更大的固定宽度，
+   可以使用下面的代码来代替上面的规则：
+*/
+/*
+.wide {
+  .page__inner-wrap {
+    max-width: 1400px; // 你可以设置为任何你喜欢的宽度
+  }
+}
+*/
+
+/* 在带有 "wide" 标记的页面上，隐藏作者信息，只为TOC留出空间 */
+.wide .author__avatar,
+.wide .author__name,
+.wide .author__bio {
+  display: none;
+}
+
+.publication-list ul {
+  list-style-type: none; /* 核心指令：移除项目符号 */
+  padding-left: 0;       /* 推荐：移除浏览器为符号留出的默认左内边距 */
+}
+
+.publication-list li{
+  font-size: 0.8em; /* 将字体大小缩小为默认的90% */
+  line-height: 1.5; /* 稍微增加行高，提升易读性 */
+  text-align: justify; /* <-- 添加这一行来实现两端对齐 */
+}
+
+
