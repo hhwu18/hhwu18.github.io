@@ -119,7 +119,7 @@ author:
     - label: "Home"
       icon: "fas fa-fw fa-home"
       url: "/"
-    - label: "More About Me"
+    - label: "More Info."
       icon: "fas fa-fw fa-user"
       url: "/about/"
     - label: " Publications"

@@ -1,5 +1,5 @@
 ---
-title: "More About Me"
+title: "More Info."
 layout: single
 permalink: /about/
 toc: true

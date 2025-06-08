@@ -1,8 +1,9 @@
 /* _sass/_my-custom-styles.scss */
 
+
 /* 1. 将网站标题字体变大 */
 .site-title {
-  font-size: 1.7em; /* 你可以调整这个数值，例如 1.5em, 2.2em, 30px 等 */
+  font-size: 2.0em; /* 你可以调整这个数值，例如 1.5em, 2.2em, 30px 等 */
 }
 
 /* 2. 移除作者头像的边框和阴影 */
@@ -17,6 +18,26 @@
 
 .homepage-justify .page__content p {
   text-align: justify;
+}
+
+
+/* ---------------------------------- */
+/* 为网站主标题的中英文部分分别设置样式 */
+/* ---------------------------------- */
+
+/* 设置英文标题 "Huihui Wu" 的样式 */
+.site-title-en {
+  font-family: "Cormorant Garamond", serif; /* 使用 Cormorant Garamond 字体 */
+  font-weight: 700;                         /* 设置字重为 600 (SemiBold) */
+  font-style: italic;                       /* 设置为斜体 */
+}
+
+/* 设置中文标题 "吴辉辉" 的样式 */
+.site-title-zh {
+  font-family: "Ma Shan Zheng", cursive; /* 使用马善政字体 */
+  font-weight: 400;                      /* 字体本身只有 400 (Regular) 字重 */
+  font-style: normal;                    /* 确保它不是斜体 */
+  margin-left: 0.5em;                      /* 在中英文之间增加一点间距 */
 }
 
 /* ---------------------------------- */

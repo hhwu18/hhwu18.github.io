@@ -9,6 +9,9 @@ toc_sticky: true
 author_profile: true #remove side col
 classes: wide #wide screen 
 ---
+
+(*: corresponding author, #: co-first author)
+
 ## Submitted Papers
 <div class="publication-list" markdown="1">
 * **[5]** Tao Guo, **Huihui Wu***, Yizhu Wang, Yang Li, Jie Han, Bo Bai, and Wei Han, “Semantic Compression with Side Information: A Rate-Distortion Perspective”, <em>IEEE Transactions on Cognitive Communications and Networking</em>, submitted. 
