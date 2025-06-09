@@ -33,8 +33,8 @@ Huihui Wu received the B.Sc. degree in communication engineering from the Southw
 
 ## Biography
 <div class="bio-content" markdown="1">
-Huihui Wu received the B.Sc. degree in communication engineering from the Southwest Minzu University, Chengdu,China, in 2011, 
-the M.Sc. degree in communication engineering from Xiamen University ([Prof. Lin Wang](https://wwcs.xmu.edu.cn/wanglin/index.htm)), Xiamen,China, in 2014, 
+Huihui Wu received the B.Sc. degree in communication engineering from the Southwest Minzu University, Chengdu, China, in 2011, 
+the M.Sc. degree in communication engineering from Xiamen University ([Prof. Lin Wang](https://wwcs.xmu.edu.cn/wanglin/index.htm)), Xiamen, China, in 2014, 
 and the Ph.D. degree in electrical and computer engineering from McMaster University ([Prof. Sorina Dumitrescu](https://www.ece.mcmaster.ca/~sorina/)), Hamilton, ON, Canada, in 2018. 
 From November 2018 to March 2021, he was first a Post-Doctoral Research Scientist with Columbia University ([Prof. Xiaodong Wang](https://www.engineering.columbia.edu/faculty-staff/directory/xiaodong-wang)), New York, NY, USA, 
 and then a Post-Doctoral Researcher with McGill University ([Prof. Mark Coates](http://www.ece.mcgill.ca/~mcoate/) and [Prof. Warren Gross](https://www.mcgill.ca/ece/warren-gross)), Montreal, QC, Canada.
