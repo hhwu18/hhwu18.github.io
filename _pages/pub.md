@@ -14,12 +14,8 @@ classes: wide #wide screen
 
 ## Submitted Papers
 <div class="publication-list" markdown="1">
-* **[6]** Chenghong Bian, Kaitao Meng, **Huihui Wu**, Yumeng Zhang, Deniz Gunduz, “CI<sup>2</sup>SAC: CRC-Assisted Channel Codes for Iterative Integrated Sensing and Communications”, <em>IEEE Transactions on Wireless Communications</em>, submitted. 
-* **[5]** Tao Guo, **Huihui Wu***, Yizhu Wang, Yang Li, Jie Han, Bo Bai, and Wei Han, “Semantic Compression with Side Information: A Rate-Distortion Perspective”, <em>IEEE Transactions on Cognitive Communications and Networking</em>, submitted. 
-* **[4]** Jiachuan Ye, Shitong Wu, Lingyi Chen, Wenyi Zhang, **Huihui Wu** and Hao Wu, “Efficient Computation of Marton's Error Exponent via Constraint Decoupling”, *IEEE Information Theory Workshop (ITW 2025)*, Syndney, Australia, submitted. 
-* **[3]** Haoran Tang, Lingyi Chen, Shitong Wu, Jiakun Liu, **Huihui Wu**, Wenyi Zhang, Hao Wu, “RDD Function: A Tradeoff between Rate and Distortion-in-Distortion”, *IEEE Information Theory Workshop (ITW 2025)*, Syndney, Australia, submitted.  
-* **[2]** Lingyi Chen, Deheng Yuan, Wenyi Zhang, Hao Wu and **Huihui Wu***, “An Efficient Alternating Minimization Algorithm for Computing Quantum Rate-Distortion Function”, <em>IEEE Information Theory Workshop (ITW 2025)</em>, Syndney, Australia, submitted.  
-* **[1]** Shitong Wu, Sicheng Xu, Lingyi Chen, **Huihui Wu** and Wenyi Zhang, "Estimating Rate-Distortion Functions Using the Energy-Based Model”, *IEEE Information Theory Workshop (ITW 2025)*, Syndney, Australia, submitted.  
+* **[2]** Chenghong Bian, Kaitao Meng, **Huihui Wu**, Yumeng Zhang, Deniz Gunduz, “CI<sup>2</sup>SAC: CRC-Assisted Channel Codes for Iterative Integrated Sensing and Communications”, <em>IEEE Transactions on Wireless Communications</em>, submitted. 
+* **[1]** Tao Guo, **Huihui Wu***, Yizhu Wang, Yang Li, Jie Han, Bo Bai, and Wei Han, “Semantic Compression with Side Information: A Rate-Distortion Perspective”, <em>IEEE Transactions on Cognitive Communications and Networking</em>, submitted.  
 </div>
 
 ## Journal Papers
@@ -48,6 +44,10 @@ classes: wide #wide screen
 
 ## Conference Papers
 <div class="publication-list" markdown="1">
+* **[31]** Jiachuan Ye, Shitong Wu, Lingyi Chen, Wenyi Zhang, **Huihui Wu** and Hao Wu, “Efficient Computation of Marton's Error Exponent via Constraint Decoupling”, *IEEE Information Theory Workshop (ITW 2025)*, Syndney, Australia, Oct. 2025. 
+* **[30]** Haoran Tang, Lingyi Chen, Shitong Wu, Jiakun Liu, **Huihui Wu**, Wenyi Zhang, Hao Wu, “RDD Function: A Tradeoff between Rate and Distortion-in-Distortion”, *IEEE Information Theory Workshop (ITW 2025)*, Syndney, Australia, Oct. 2025.   
+* **[29]** Lingyi Chen, Deheng Yuan, Wenyi Zhang, Hao Wu and **Huihui Wu***, “An Efficient Alternating Minimization Algorithm for Computing Quantum Rate-Distortion Function”, <em>IEEE Information Theory Workshop (ITW 2025)</em>, Syndney, Australia, Oct. 2025.   
+* **[28]** Shitong Wu, Sicheng Xu, Lingyi Chen, **Huihui Wu** and Wenyi Zhang, "Estimating Rate-Distortion Functions Using the Energy-Based Model”, *IEEE Information Theory Workshop (ITW 2025)*, Syndney, Australia, Oct. 2025.  
 * **[27]** Xinwei Li, Lingyi Chen, Shitong Wu, **Huihui Wu***, Hao Wu and Wenyi Zhang, “Alternating Maximization Algorithm for Mismatch Capacity with Oblivious Relaying”, <em>IEEE Information Theory Workshop (ITW 2024)</em>, Shenzhen, China, Nov. 2024.
 * **[26]** Lingyi Chen, Shitong Wu, Sicheng Xu, Wenyi Zhang and **Huihui Wu**, “Neural Estimation of the Information Bottleneck Based on a Mapping Approach”, *IEEE Information Theory Workshop (ITW 2024)*, Shenzhen, China, Nov. 2024.
 * **[25]** Lingyi Chen, Shitong Wu, Xinwei Li, **Huihui Wu**, Hao Wu and Wenyi Zhang, “A double maximization approach for optimizing the LM rate of mismatched decoding”, *IEEE International Symposium on Information Theory (ISIT 2024)*, Athens, Greece, Jul. 2024. 
