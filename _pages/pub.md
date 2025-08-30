@@ -14,6 +14,7 @@ classes: wide #wide screen
 
 ## Submitted Papers
 <div class="publication-list" markdown="1">
+* **[3]** Shitong Wu, Wenhao Ye, Xinwei Li, Lingyi Chen, Wenyi Zhang, Huihui Wu, and Hao Wu, “An Optimal Transport-Based Method for Computing LM Rate and Its Convergence Analysis”, <em>IEEE Transactions on Information Theory</em>, submitted. 
 * **[2]** Chenghong Bian, Kaitao Meng, **Huihui Wu**, Yumeng Zhang, Deniz Gunduz, “CI<sup>2</sup>SAC: CRC-Assisted Channel Codes for Iterative Integrated Sensing and Communications”, <em>IEEE Transactions on Wireless Communications</em>, submitted. 
 * **[1]** Tao Guo, **Huihui Wu***, Yizhu Wang, Yang Li, Jie Han, Bo Bai, and Wei Han, “Semantic Compression with Side Information: A Rate-Distortion Perspective”, <em>IEEE Transactions on Cognitive Communications and Networking</em>, submitted.  
 </div>
