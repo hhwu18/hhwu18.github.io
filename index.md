@@ -49,7 +49,7 @@ He was a recipient of the Best Paper Awards of IEEE ICCT 2021 and IEEE WTS 2022.
 His research interests span the fields of communications, coding theory, information theory, and machine learning, with a focus on: 
 
 * Compression/quantization and machine learning 
-* Chanenl coding
+* Channel coding and quantum coding 
 * Semantic communications/information theory
 * Joint source and channel coding/decoding 
 * Optimal Transport in information theory 
@@ -57,8 +57,8 @@ His research interests span the fields of communications, coding theory, informa
 
 ## Recent News
 * **Welcome to contribute to the special issue "AI-Driven Signal Processing in Communications"** ([CFP](https://www.mdpi.com/journal/electronics/special_issues/V9H3Y11418)) in *Electronics*.
-* One paper was submitted to IEEE Transactions on Cognitive Communications and Networking
-* Four papers were submitted to ITW 2025 
+* **Welcome to contribute to the special issue "AI-Empowered Communications: Towards a Wireless Metaverse"** ([CFP](https://www.mdpi.com/journal/electronics/special_issues/MPJK041N7X)) in *Electronics*.
+* Four papers were accepted by ITW 2025, see you in Sydney!  
 
 <!-- <ul>
   {% for post in site.posts limit:3 %}
