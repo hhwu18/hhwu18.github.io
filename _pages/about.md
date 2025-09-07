@@ -12,7 +12,7 @@ classes: wide #wide screen
 
 ## Professional Activities
 <div class="publication-list" markdown="1">
-* <span class="proleftPart">Guest Editor</span> Special Issue “AI-Driven Signal Processing in Communications” in Electronics 
+* <span class="proleftPart">Guest Editor</span> Special Issue “AI-Driven Signal Processing in Communications” in Electronics <br><span class="proleftPart">    </span> Special Issue “AI-Empowered Communications: Towards a Wireless Metaverse” in Electronics
 * <span class="proleftPart">General Co-chair</span> Workshop “Error-Correction Codes for Future Wireless Communication Networks” <br><span class="proleftPart">    </span> at 16th International Symposium on Wireless Communication Systems (ISWCS 2019) 
 * <span class="proleftPart">TPC Member</span> ISMICT 2021/2022/2023, WTS 2022/2023/2024
 </div>
@@ -29,7 +29,7 @@ classes: wide #wide screen
 
 ## Awards
 <div class="publication-list" markdown="1">
-* <span class="awardsleftPart">2022</span> Huawei HKRC Director Award — Team Award<br><span class="awardsleftPart">    </span> (Key Techniques for Massive MIMO)   
+* <span class="awardsleftPart">2022</span> Huawei HKRC Director Award — Team Award (3/9) <br><span class="awardsleftPart">    </span> (Key Techniques for Massive MIMO)   
 * <span class="awardsleftPart">2022</span> Best Graduate Student Paper Award of IEEE WTS 2022 (second author)
 * <span class="awardsleftPart">2021</span> Best Paper Award of IEEE ICCT 2021 (corresponding author)
 * <span class="awardsleftPart">2016, 2017</span> International Excellence Award at McMaster University (Rewarding Rate 5%)

@@ -16,7 +16,8 @@ classes: wide #wide screen
 <div class="publication-list" markdown="1">
 * **[3]** Shitong Wu, Wenhao Ye, Xinwei Li, Lingyi Chen, Wenyi Zhang, Huihui Wu, and Hao Wu, “An Optimal Transport-Based Method for Computing LM Rate and Its Convergence Analysis”, <em>IEEE Transactions on Information Theory</em>, submitted. 
 * **[2]** Chenghong Bian, Kaitao Meng, **Huihui Wu**, Yumeng Zhang, Deniz Gunduz, “CI<sup>2</sup>SAC: CRC-Assisted Channel Codes for Iterative Integrated Sensing and Communications”, <em>IEEE Transactions on Wireless Communications</em>, submitted. 
-* **[1]** Tao Guo, **Huihui Wu***, Yizhu Wang, Yang Li, Jie Han, Bo Bai, and Wei Han, “Semantic Compression with Side Information: A Rate-Distortion Perspective”, <em>IEEE Transactions on Cognitive Communications and Networking</em>, submitted.  
+* **[1]** Tao Guo, Zhangyao Song, **Huihui Wu***, Yang Li, “Rate-Distortion Limits for Task-Oriented Compression
+with Side Information”, <em>IEEE Transactions on Vehicular Technology</em>, to be submitted.  
 </div>
 
 ## Journal Papers
@@ -46,7 +47,7 @@ classes: wide #wide screen
 ## Conference Papers
 <div class="publication-list" markdown="1">
 * **[31]** Jiachuan Ye, Shitong Wu, Lingyi Chen, Wenyi Zhang, **Huihui Wu** and Hao Wu, “Efficient Computation of Marton's Error Exponent via Constraint Decoupling”, *IEEE Information Theory Workshop (ITW 2025)*, Syndney, Australia, Oct. 2025. 
-* **[30]** Haoran Tang, Lingyi Chen, Shitong Wu, Jiakun Liu, **Huihui Wu**, Wenyi Zhang, Hao Wu, “RDD Function: A Tradeoff between Rate and Distortion-in-Distortion”, *IEEE Information Theory Workshop (ITW 2025)*, Syndney, Australia, Oct. 2025.   
+* **[30]** Haoran Tang, Lingyi Chen, Shitong Wu, Jiakun Liu, **Huihui Wu***, Wenyi Zhang, Hao Wu, “RDD Function: A Tradeoff between Rate and Distortion-in-Distortion”, *IEEE Information Theory Workshop (ITW 2025)*, Syndney, Australia, Oct. 2025.   
 * **[29]** Lingyi Chen, Deheng Yuan, Wenyi Zhang, Hao Wu and **Huihui Wu***, “An Efficient Alternating Minimization Algorithm for Computing Quantum Rate-Distortion Function”, <em>IEEE Information Theory Workshop (ITW 2025)</em>, Syndney, Australia, Oct. 2025.   
 * **[28]** Shitong Wu, Sicheng Xu, Lingyi Chen, **Huihui Wu** and Wenyi Zhang, "Estimating Rate-Distortion Functions Using the Energy-Based Model”, *IEEE Information Theory Workshop (ITW 2025)*, Syndney, Australia, Oct. 2025.  
 * **[27]** Xinwei Li, Lingyi Chen, Shitong Wu, **Huihui Wu***, Hao Wu and Wenyi Zhang, “Alternating Maximization Algorithm for Mismatch Capacity with Oblivious Relaying”, <em>IEEE Information Theory Workshop (ITW 2024)</em>, Shenzhen, China, Nov. 2024.
